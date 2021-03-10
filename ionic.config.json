@@ -1,0 +1,7 @@
+{
+  "name": "tronflix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
